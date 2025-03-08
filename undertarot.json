@@ -1,0 +1,10 @@
+{
+    "id": "undertale_tarot",
+    "name": "UNDERTAROT",
+    "author": ["strawberryowl96"],
+    "description": "Replaces the default tarots sprites with the UNDERTALE Tarot Prints set from Fangamer. The Tarot art is illustrated by Dogbomber. UNDERTALE sprites are from Toby Fox and Temmie Chang. The modded sprites and code are edited by strawberryowl96.",
+    "prefix": "undertarot",
+    "main_file": "main.lua",
+    "version": "1.0",
+    "dependencies": ["malverk (>=1.1.3~)"]
+}
