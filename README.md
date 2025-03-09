@@ -7,7 +7,7 @@ Requires [Malverk](https://github.com/Eremel/Malverk).
 ![promo](https://github.com/user-attachments/assets/7823757c-c792-41f8-a28c-8003314cb8bb)
 ![uttarot](https://github.com/user-attachments/assets/9a3576a7-7d9e-4842-a910-24bba758f33a)
 ![Booster-packs](https://github.com/user-attachments/assets/1beb1141-91e9-4ecb-9f7b-c824cac752bd)
-
+![uttarotslim](https://github.com/user-attachments/assets/22a58238-2832-4976-ae30-c9b8d675ead8)
 
 ## Features:
 - New textures for each Tarot consumable. Each character is matched with the number that appeared at the top of their Tarot card. 
